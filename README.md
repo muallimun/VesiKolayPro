@@ -294,8 +294,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ## 👥 İletişim
 
 - 📧 **E-posta**: [E-Posta Gönderin](mailto:abdullahtat@gmail.com)
-- 💬 **Web**: [VesiKolayPro Web](https://www.muallimun.com/listekolay/)
-
+- 💬 **Web**: [VesiKolayPro Web](https://www.muallimun.com/VesiKolayPro/)
 
 ## 🙏 Teşekkürler
 
