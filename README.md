@@ -293,9 +293,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👥 İletişim
 
-- 📧 **E-posta**: [your-email@example.com](mailto:abdullahtat@gmail.com)
-- 💬 **Issues**: [GitHub Issues](https://github.com/muallimun/VesiKolayPro/issues)
-- 📖 **Dokümantasyon**: [Wiki](https://github.com/muallimun/VesiKolayPro/wiki)
+- 📧 **E-posta**: [E-Posta Gönderin](mailto:abdullahtat@gmail.com)
+- 💬 **Web**: [VesiKolayPro Web](https://www.muallimun.com/listekolay/)
+
 
 ## 🙏 Teşekkürler
 
