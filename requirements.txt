@@ -1,0 +1,7 @@
+pillow
+opencv-python
+fpdf2
+numpy
+pandas
+psutil
+qrcode
