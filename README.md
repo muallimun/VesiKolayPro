@@ -309,6 +309,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 **⭐ Proje beğendiyseniz yıldız vermeyi unutmayın! ⭐**
 
-Made with ❤️ for Turkish Schools
+Made with ❤️ for Schools
 
 </div>
